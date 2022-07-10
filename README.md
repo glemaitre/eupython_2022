@@ -1,4 +1,4 @@
-# PyConDE & PyData Berlin 2022 - scikit-learn tutorial
+# EuroPython 2022 - scikit-learn tutorial
 
 Some intro [slides](https://docs.google.com/presentation/d/1xPf8vN9-pwZkAq28gbghJ9IWaNO4w-ZKO59193BWs34/edit?usp=sharing)
 

@@ -1,6 +1,6 @@
 # EuroPython 2022 - scikit-learn tutorial
 
-Some intro [slides](https://docs.google.com/presentation/d/1xPf8vN9-pwZkAq28gbghJ9IWaNO4w-ZKO59193BWs34/edit?usp=sharing)
+Some intro [slides](https://docs.google.com/presentation/d/16AEtPVY4MVnBUsZ8CVPsnpvK5uo9HP3oJZ1Ds3AUBoA/edit?usp=sharing)
 
 ## Follow the tutorial online
 

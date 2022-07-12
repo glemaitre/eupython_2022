@@ -7,3 +7,4 @@ dependencies:
   - seaborn
   - jupyter
   - shap
+  - pyworld3

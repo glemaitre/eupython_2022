@@ -3,3 +3,4 @@ pandas
 seaborn
 jupyter
 shap
+pyworld3
